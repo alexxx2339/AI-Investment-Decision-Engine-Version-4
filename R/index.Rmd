@@ -43,7 +43,7 @@ library(lubridate)
 
 ```{r}
 
-daily <- read_csv("NVDA_Daily_For_R.csv")
+daily <- read_csv("../Data/NVDA_Daily_For_R.csv")
 
 
 ```
